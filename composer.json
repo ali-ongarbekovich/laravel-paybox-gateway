@@ -1,5 +1,5 @@
 {
-  "name": "devpark/laravel-paybox-gateway",
+  "name": "ali-ongarbekovich/laravel-paybox-gateway",
   "description": "Laravel Paybox gateway",
   "require": {
     "laravel/framework": "^7.*",
